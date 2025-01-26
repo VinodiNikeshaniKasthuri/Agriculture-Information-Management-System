@@ -23,7 +23,7 @@
 
    # ✔️ Technologies Used
    ###  • HTML, CSS, and JavaScript
-   ###  • Node.js
+
    ###  • PHP
   
    
