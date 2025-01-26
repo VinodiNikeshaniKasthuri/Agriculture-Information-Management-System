@@ -25,8 +25,7 @@
    ###  • HTML, CSS, and JavaScript
    ###  • Node.js
    ###  • PHP
-   ###  • React.js
-
+  
    
    
    
